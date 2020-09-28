@@ -27,7 +27,7 @@ The utilised data files are detailed below:
 
 ## Technologies
 
-Python 3.7.6
+Python 3.6.2
 
 ## Status
 
