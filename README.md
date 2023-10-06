@@ -35,7 +35,3 @@ Project is _finished_.
 ## Inspiration
 
 This project is partly inspired by my Master's dissertation, completed back in 2012, which explored how later (vs contemporary) primary sources depicted the emperor Caligula in a more negative light, thus influencing modern day perceptions.
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
